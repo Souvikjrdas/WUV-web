@@ -18,7 +18,8 @@ header{
 }
 #forms{
    padding: 22px;
-   width: 400px;
+   width: 100%;
+   max-width: 400px;
    height: 400px;
    background-color: rgba(0, 0, 255, 0.918);
    margin-left: auto;
