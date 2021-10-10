@@ -57,5 +57,10 @@ header{
 .submit:hover{
     cursor: pointer;
     background-color: navy;
+
+#spans:hover{
+    text-decoration: none;
 }
+    
+
 
