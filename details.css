@@ -42,11 +42,15 @@ body{
     background-color: goldenrod;
     box-sizing: border-box;
 }
+#spans:hover{
+    text-decoration: none;
+}
 @media  (max-width: 780px)and (min-width: 600px) {
     #text{
         width: 80%;
         text-align: center;
         background-color: blueviolet;
     }
+   
 }
 
