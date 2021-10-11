@@ -14,8 +14,6 @@ body{
     padding: 15px 0px ;
     text-align: center;
     box-sizing: border-box;
-    position: sticky;
-    top: 0;
 }
 #spans{
     width: auto;
