@@ -16,6 +16,10 @@ header{
     color: whitesmoke;
     font-size: large;
 }
+#spans:hover{
+    text-decoration: none;
+}
+
 #forms{
    padding: 22px;
    width: 100%;
@@ -58,10 +62,8 @@ header{
 .submit:hover{
     cursor: pointer;
     background-color: navy;
-
-#spans:hover{
-    text-decoration: none;
 }
+
     
 
 
